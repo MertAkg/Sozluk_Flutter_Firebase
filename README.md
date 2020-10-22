@@ -2,6 +2,10 @@
 
 A new Flutter application.
 
+Flutter dictionary app with Firebase backend
+
+using firebase cloudstore and firebase auth
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
